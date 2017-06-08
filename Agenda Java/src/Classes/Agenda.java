@@ -20,7 +20,7 @@ public class Agenda {
     public List<Contatos> getContatosAgenda() {
         return contatosAgenda;
     }
-	
+/*	
 	public void adicionarContato(Contatos c) {
 		contatosAgenda.add(c);
 		
@@ -60,5 +60,5 @@ public class Agenda {
 			System.out.println("Email: " + contato.getEmail());
 			System.out.println("Telefone: " + contato.getTelefone());
 		}
-	}
+	}*/
 }
